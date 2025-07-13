@@ -1,0 +1,3 @@
+export const CDN_LOGO = 'https://www.bing.com/images/search?view=detailV2&ccid=ptSJ8Lkg&id=D0DA824508CC1B879661C0D6177F699800257A80&thid=OIP.ptSJ8LkgyDE9841lE8BCHwHaHa&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f004%2f854%2f477%2foriginal%2fcloud-kitchen-logo-digital-technology-cloud-kitchen-with-fork-monoline-line-icon-logo-vector.jpg&exph=1920&expw=1920&q=cloud+kitchen+logo&simid=608027972784694828&FORM=IRPRST&ck=8C6346221DB5D68AF13FDE5E4E54E583&selectedIndex=0&itb=0'
+export const CDN_IMAGE = 'https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/';
+export const CDN_Menu_Items = 'https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=17.406498&lng=78.47724389999999&restaurantId='
